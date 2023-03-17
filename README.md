@@ -19,6 +19,8 @@
 [![문건호's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgunho18)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://github.com/mgunho18](https://godeeper.tistory.com/))](https://godeeper.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mgunho18@gmail.com)](mailto:mgunho18@gmail.com)
-![Profile views](https://gpvc.arturio.dev/mgunho18)
+<div>
+ <span><a href="https://godeeper.tistory.com/" target="_blank"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&logoColor=white"/></a><span>
+ <span><img src="https://img.shields.io/badge/mgunho18@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><span>
+   <span><img src="https://gpvc.arturio.dev/mgunho18"></span>
+</div>
