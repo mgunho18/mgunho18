@@ -14,10 +14,6 @@
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?)
 
 ---
-### 🌌 My Github stats
-[![문건호's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgunho18)](https://github.com/anuraghazra/github-readme-stats)
-
----
 <div>
  <span><a href="https://godeeper.tistory.com/" target="_blank"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&logoColor=white"/></a><span>
  <span><img src="https://img.shields.io/badge/mgunho18@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><span>
